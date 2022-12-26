@@ -1,4 +1,4 @@
-![logo](https://github.com/TamannaSana/TamannaSana/blob/main/Data%20Entry%20Services%20(2).gif)
+![logo](https://github.com/TamannaSana/TamannaSana/blob/main/Untitled%20design.gif)
 
 <h1 align="center">Hi 👋, I'm Tamanna Sana</h1>
 <h3 align="center">An Ambitious Software Engineer from Bangladesh</h3>
