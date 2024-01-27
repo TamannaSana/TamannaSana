@@ -8,7 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamannasana&label=Profile%20views&color=0e75b6&style=flat" alt="tamannasana" /> </p>
 
-- 🌱 I’m currently learning **JMeter, API Testing, Performance Testing, Manual Testing, Automation Testing**
+- 👩🏻‍💻 I’m currently working as **SQA Engineer**
+
+- 🌱 I’m learning **JMeter, API Testing, Performance Testing, Manual Testing, Automation Testing**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, AI, Blockchain, SQA**
 
