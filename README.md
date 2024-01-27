@@ -1,7 +1,7 @@
 ![logo](https://github.com/TamannaSana/TamannaSana/blob/main/Untitled%20design.gif)
 
 <h1 align="center">Hi 👋, I'm Tamanna Sana</h1>
-<h3 align="center">An Ambitious Software Engineer from Bangladesh</h3>
+<h3 align="center">An Ambitious Software QA Engineer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
 
